@@ -14,17 +14,20 @@ This repository contains a comprehensive data analysis and visualization project
 ### Task 3: Monthly Charges Distribution
 * **Description:** Created a manual frequency distribution table to group continuous pricing metrics into clean intervals (bins of 10) ranging from 10 to 100. 
 * **Visualization:** Generated a Clustered Column Chart acting as a true distribution histogram to analyze where the majority of customer billing sits.
-* *[Optional: Insert your screenshot here using `![Histogram](images/task3_histogram.png)`]*
+
+![Monthly Charges Distribution](task3.png)
 
 ### Task 4: Churn Rates by Gender
 * **Description:** Built a dynamic Pivot Table to cross-tabulate customer gender metrics against explicit churn indicators ("Yes" vs. "No").
 * **Visualization:** Developed a custom-colored Clustered Bar Chart to provide a side-by-side behavioral comparison between male and female customer retention profiles.
-* *[Optional: Insert your screenshot here using `![Gender Churn](images/task4_gender_churn.png)`]*
+
+![Churn Counts by Gender](task4.png)
 
 ### Task 5: Heatmap for Monthly Charges and Tenure Interaction
 * **Description:** Modeled a high-level cross-tabulation matrix utilizing a Pivot Table to observe how customer tenure ranges interact with shifting monthly charge brackets.
 * **Visualization:** Applied conditional formatting color scales to output an executive-ready interaction Heatmap, visually identifying high-density volume zones while maintaining strict data integrity profiles by filtering unclassified system anomalies.
-* *[Optional: Insert your screenshot here using `![Heatmap](images/task5_heatmap.png)`]*
+
+![Interaction Heatmap](task5.png)
 
 ---
 
@@ -36,5 +39,5 @@ This repository contains a comprehensive data analysis and visualization project
 
 ## How to Review the Project
 1. Clone or download this repository.
-2. Open the `Telco_Customer_Churn_Analysis.xlsx` file in Microsoft Excel or WPS Office.
-3. Navigate across the labeled tabs (`Data Overview`, `Task 3 - Distribution`, etc.) to explore the calculations, pivot models, and interactive charts.
+2. Open the `TELCO_customer_churn_analysis.xlsx` file in Microsoft Excel or WPS Office.
+3. Navigate across the labeled tabs to explore the calculations, pivot models, and interactive charts.
